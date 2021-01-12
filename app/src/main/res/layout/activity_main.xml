@@ -11,7 +11,7 @@
             name="current"
             type="com.weatherforecat.domain.model.Current" />
 
-        <import type="com.weatherforecat.module.Utils.KalvinToCelsiusUtls" />
+        <import type="com.weatherforecat.module.utils.KalvinToCelsiusUtls" />
 
     </data>
 

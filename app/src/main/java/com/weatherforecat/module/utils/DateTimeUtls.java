@@ -1,4 +1,4 @@
-package com.weatherforecat.module.Utils;
+package com.weatherforecat.module.utils;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

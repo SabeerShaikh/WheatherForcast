@@ -7,9 +7,9 @@
             name="dailyTemp"
             type="com.weatherforecat.domain.model.DailyTemp" />
 
-        <import type="com.weatherforecat.module.Utils.DateTimeUtls" />
+        <import type="com.weatherforecat.module.utils.DateTimeUtls" />
 
-        <import type="com.weatherforecat.module.Utils.KalvinToCelsiusUtls" />
+        <import type="com.weatherforecat.module.utils.KalvinToCelsiusUtls" />
 
     </data>
 
