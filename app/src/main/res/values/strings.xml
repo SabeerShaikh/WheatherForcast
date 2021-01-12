@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherForecate</string>
+    <string name="please_connect_to_internet">Please check internet connection!</string>
+    <string name="celsius">%1$s\u2103</string>
+    <string name="dayName">%1$s </string>
+    <string name="bangalore">Bangalore</string>
+</resources>
